@@ -6,5 +6,12 @@
         "**/*.js": true,
         "**/*.map": true
     }, 
+
+    "auto-close-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "php"
+    ],
+    
     "files.autoSave": "afterDelay"
 }
